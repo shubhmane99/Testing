@@ -4,6 +4,6 @@
 public class p1 {
 
     public static void main(String[] args) {
-        System.out.println("on branch copy dulictae");
+        System.out.println("checking");
     }
 }
